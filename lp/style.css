@@ -1,0 +1,38 @@
+
+
+.menu {
+display: flex;
+justify-content: center;
+align-items: center;
+padding-top: 10px;
+height: 30px;
+}
+
+.nav-menu {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+ border: 1px;
+}
+
+.nav-item {
+  margin-right: 50px;
+}
+
+
+
+
+
+
+.html,body{
+    background-color: rgb(236, 192, 192);
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+transform: scale(1.5px);
+transform: translate(50px, 100px);
+}
+
+
+  
+
